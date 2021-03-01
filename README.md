@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+    Install the prerequistes. Import RMP files containing process to get started. 
 
 ### Prerequisites
  Rapid miner community edition. ( Not for commercial use).
@@ -14,6 +14,6 @@ These instructions will get you a copy of the project up and running on your loc
   
 ## Authors
 
-* **Senthilkumar** - *Initial work* - [PurpleBooth](https://github.com/msenthilkumar1)
+* **Senthilkumar** - *Initial work* - [Msenthilkumar1](https://github.com/msenthilkumar1)
  
  
